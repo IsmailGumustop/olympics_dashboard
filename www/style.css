@@ -1,0 +1,45 @@
+#noc_medal_module-total_participation {
+  text-align:center
+}
+/*
+.col-sm-3 {
+  background-color: grey;
+}
+*/
+.bslib-card {
+  height:100%;
+}
+
+div#value_box-sports_ui {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+div#value_box-sports_ui svg{
+  width: 100%!important;
+ height:auto!important;
+}
+
+#athletics {
+    fill: currentColor;
+}
+#swimming {
+    fill: none;
+}
+#fencing {
+    fill: none;
+}
+
+
+#skijump {
+    fill: currentColor;
+}
+#bobsleigh {
+    fill: none;
+}
+#curling {
+    fill: none;
+}
