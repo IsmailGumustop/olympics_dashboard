@@ -5,20 +5,20 @@ Welcome to the Modern Olympic Games Dashboard, showcasing data from Athens 1896 
 ## 💻 Install and Run
 There two ways to install. You can easily install with [Docker](https://www.docker.com/) with following:
 ```
-docker pull ismailgt/olympics-dashboard
+docker pull ismailgt/olympics_dashboard
 ```
 After pulling Docker image. Run the following command:
 
 ```
-docker run -p 8180:8180 ismailgt/olympics-dashboard
+docker run -p 8180:8180 ismailgt/olympics_dashboard
 ```
 Then, open a browser and you can enter `0.0.0.0:8180` or `localhost:8180`.
 
 In order to clone this repo. Run the following command:
 
 ```
-git clone IsmailGumustop/olympics-dashboard
-cd olympics-dashboard
+git clone IsmailGumustop/olympics_dashboard
+cd olympics_dashboard
 ```
 To run the app, execute the following:
 ```
